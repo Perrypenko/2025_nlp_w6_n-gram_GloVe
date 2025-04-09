@@ -76,3 +76,13 @@ https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter
 - [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)
 - [Speech and Language Processing (Jurafsky & Martin)](https://web.stanford.edu/~jurafsky/slp3/)
 
+
+## 참고 라이브러리 
+
+1. **Seaborn**: 통계적 데이터 시각화 라이브러리. matplotlib 기반. 시각화 스타일 예쁨.  
+2. **Matplotlib**: 기본적인 파이썬 시각화 라이브러리. 그래프, 차트 등 전반적 지원.  
+3. **pickle**: 파이썬 객체를 파일로 저장하거나 불러오기 위한 모듈. 직렬화/역직렬화 용도.  
+4. **NumPy**: 고성능 수치 계산 라이브러리. 다차원 배열, 벡터/행렬 연산 중심.  
+5. **Pandas**: 테이블형 데이터 처리 라이브러리. DataFrame, Series 제공. 데이터 조작/분석에 특화.  
+6. **SciPy**: 과학/공학용 계산 라이브러리. 선형대수, 최적화, 푸리에 변환 등 지원.  
+7. **Scikit-learn**: 머신러닝 라이브러리. 분류, 회귀, 클러스터링, 전처리 등 기본 알고리즘 포함.
