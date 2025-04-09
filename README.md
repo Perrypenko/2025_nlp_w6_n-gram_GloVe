@@ -1,4 +1,3 @@
-```markdown
 # 수학으로 구현하는 언어 모델: n-gram과 GloVe
 
 이 저장소는 2인 1조로 진행하는 실습 프로젝트입니다.  
@@ -18,16 +17,14 @@ n-gram 기반 통계 언어 모델부터 GloVe 임베딩까지,
 
 ## 📁 디렉토리 구조
 
-```sh
+```bash
 .
 ├── 1_corpus_preprocessing.ipynb         # 말뭉치 정제 및 n-gram 생성
 ├── 2_ngram_model.ipynb                  # 확률 기반 n-gram 모델 구현
 ├── 3_glove_matrix.ipynb                 # 동시출현 행렬 생성
 ├── 4_glove_loss_implementation.ipynb    # GloVe 목적함수 구현 및 최적화
 ├── 5_visualization_analysis.ipynb       # 결과 분석 및 시각화
-├── report_template.md                   # 보고서 작성 템플릿 (논문 구조 기반)
-└── data/
-    └── corpus.txt                       # 예시 말뭉치 파일
+├── corpus.txt                           # 예시 말뭉치 파일
 ```
 
 ---
